@@ -10,7 +10,7 @@ The Mayor’s Office of New Urban Mechanics was a pioneering step in civic techn
 
 Chris and Nigel have demonstrated exceptional leadership and innovation, piloting state-of-the-art civic technology projects. Keeping Chris and Nigel will maintain consistency in leadership and allow the program to flourish without transitional thrashing.
 
-Chris and Nigel are advisors to Code for Boston, the Boston brigade of Code for America. They also advise the MetroBoston DataCommon, the regional data-sharing program implemented by the Metropolitan Area Planning Council.
+Chris and Nigel are advisors to [Code for Boston][cfb], the Boston brigade of [Code for America][cfa]. They also advise the [MetroBoston DataCommon][mbdc], the regional data-sharing program implemented by the [Metropolitan Area Planning Council][mapc].
 
 ### Keep: The focus on regional data
 
@@ -18,11 +18,13 @@ The Office of New Urban Mechanics has implemented Citizens Connect and other pro
 
 ### Implement: Innovation Fellowship
 
-In 2011, Code for America Fellows worked with New Urban Mechanics on projects such as Bostonavigator, Discover BPS, Where’s My School Bus, Building Boston, Boston Public Schools, and Boston Public Works.
+In 2011, [Code for America Fellows] worked with New Urban Mechanics on projects such as Bostonavigator, Discover BPS, Where’s My School Bus, Building Boston, Boston Public Schools, and Boston Public Works.
 
 __Problem:__ Code for America prioritizes fellowships based on need. Boston has well-established civic technology, so may not see a fellow for some time. However, the fellowship positioned a developer in a year-long position within New Urban Mechanics, providing consistent effort for civic technology projects and experience for a recent graduate.
 
 __Solution:__ Implement a fellowship program to mirror the Code for America Fellowship Program, sourcing talent from Boston schools and institutions, giving many more civic-oriented developers and designers the opportunity to serve their city.
+
+__Precedent__: The San Francisco Mayor's Office of Civic Innovation has a [dedicated fellow][fellow] similar to a Code for America fellow.
 
 ### Dream: Innovation Infrastructure
 
@@ -30,9 +32,12 @@ __Problem:__ New Urban Mechanics is an innovative department but appears to have
 
 __Pathways:__
 
-+ Consider implementing a Civic Innovation Officer, such as the one in the Mayor’s Office of Civic Innovation in San Francisco.
++ Consider implementing a [Civic Innovation Officer][cio], such as the one in the Mayor’s Office of Civic Innovation in San Francisco.
 + Consider creating an Innovation Department, or modify New Urban Mechanics to include an Experimentation Team. This team would, like a startup, attempt to develop and implement boundary-breaking civic technology using an lean (i.e. low-cost) agile approach.
 + Consider establishing an Innovation Fund to provide for the Innovation Department’s experimentation. Adopt a fail-forward approach that expects occasionally failures but ensures introspection enough to learn from these events.
+
+
+
 
 # Access for All
 
@@ -48,8 +53,8 @@ __Solution:__ Hire a team of design thinkers (i.e. information designers, user e
 
 __Precedents:__
 
-+ Chicago’s online permitting office lets you know where in the process you are, who last touched it, and when it was last addressed.
-+ AnywhereBallot used design thinking to design a ballot that enabled people to vote even if they had low literacy, medical conditions (including a stroke), or other problems contributing to being unable to follow a multi-page ballot.
++ [Chicago’s online permitting office][permit] lets you know where in the process you are, who last touched it, and when it was last addressed.
++ [AnywhereBallot][ab] used design thinking to design a ballot that enabled people to vote even if they had low literacy, medical conditions (including a stroke), or other problems contributing to being unable to follow a multi-page ballot.
 
 ### Implement: Write for Humans
 
@@ -59,7 +64,7 @@ __Solution:__ 
 
 + Mandate that the design of future forms and documents be as cleanly-designed and easy to read as this memo.
 + Mandate that all public-facing documents be translated into English that is accessible to the many in Boston who have low literacy, mental illness, a learning disability, or any other factor that could contribute to trouble reading long, small-print, legal documents. This could look like ‘no-fear Shakespeare’ with two column documents showing the original legal on one side, and accessible language on the other.
-+ Use Write for Humans from the Department of Better Technology to inform this process.
++ Use [Write for Humans][wfh] from the [Department of Better Technology][dobtco] to inform this process.
 
 ### Dream: Baseline digital access
 
@@ -67,8 +72,8 @@ __Problem:__ In Cambridge, public schools often require internet access for home
 
 __Pathways:__
 
-+ Ensure that all public housing has reliable WiFi in a public area, or ideally, across the entire housing complex. The Cambridge Housing Alliance, CCTV, and Code for Boston are presently working on a project
-+ Provide all public school students in public housing with a low-cost computer. A Raspberry Pi with a case and WiFi module is $62, and, preloaded with some office software, would provide for students’ baseline technology needs.
++ Ensure that all public housing has reliable WiFi in a public area, or ideally, across the entire housing complex. The Cambridge Housing Alliance, CCTV, and Code for Boston are presently working on a project to repair and maintain reliable wireless access for residents of Newtowne Court.
++ Provide all public school students in public housing with a low-cost computer. A [Raspberry Pi][pi] with a [case][case] and [WiFi module][wifi] is $62, and, preloaded with some [office software][libre], would provide for students’ baseline technology needs.
 + Fund publicly accessible computer areas and free training for people in low-income, low-internet access neighborhoods.
 
 ### Dream: Mandatory computer education
@@ -111,6 +116,9 @@ __Problem:__ The founder of Danger!Awesome, a laser-cutting studio in Central Sq
 This is likely true of many startups in the Boston area: they don’t have a chance succeed locally due to unaffordable space. This will be especially relevant in the Innovation District, where most of the buildings are, or  soon will be, new construction.
 
 __Solution:__ Designate affordable space within the Innovation District and elsewhere, so that experimental startups with low funding but high potential can survive in the Boston market. This space might have an expiration on affordable, similar to  affordable housing.
+
+
+
 
 # More Data, More Opportunity
 
