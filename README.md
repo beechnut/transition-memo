@@ -1,6 +1,8 @@
 # Transition Memo
 
-The Transition Team for the new mayor of Boston, Marty Walsh,
+The Transition Team for the new mayor of Boston, Marty Walsh, reached out to me for guidance on civic technology and open data.
+
+## This is my tentative response, still being edited.
 
 View `transition-memo.md` in your own markdown editor, or raw. GitHub-flavored Markdown does weird things to the formatting.
 
