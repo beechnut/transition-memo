@@ -58,6 +58,7 @@ __Pathways__
 + Consider establishing an Innovation Fund to provide for the Innovation Department’s experimentation. Adopt a fail-forward approach that expects occasionally failures but ensures introspection enough to learn from these events.
 
 ---
+
 # Access for All
 
 Civic technology should not be for the sole benefit of people like me: privileged, white, upwardly-mobile middle class, familiar with the ins and outs of government, surrounded by similar others. Civic technology at its best would be an equalizer, allowing everyone access to government and facilitating interactions between the two. Civic technology should be designed for people who need the most assistance: people with low  literacy, people with short-term memory loss, people with learning disabilities, or people in situations (such as poverty or hunger) who could not easily focus on documents with legal or technical language.
@@ -119,7 +120,9 @@ This is not a proposal that everyone be forced or even encouraged into STEM majo
 ---
 
 # Business & Innovation
+
 ---
+
 ##Implement
 ###Open Procurement to Smaller Businesses
 
@@ -158,6 +161,7 @@ __Solution__
 Designate affordable space within the Innovation District and elsewhere, so that experimental startups with low funding but high potential can survive in the Boston market. This space might have an expiration on affordable, similar to  affordable housing.
 
 ---
+
 # More Data, More Opportunity
 
 When Code for Boston asked the City of Cambridge to open their GIS data, they did so without knowing what we would do with it. In a couple of weeks in our spare time, we wrote an app that helps citizens get instant directions to their polling place.
@@ -165,6 +169,7 @@ When Code for Boston asked the City of Cambridge to open their GIS data, they di
 More data in open, machine-friendly, standard formats means more opportunities for city employees and volunteers to make something that helps citizens and government connect and get along. It’s okay for there to be a machine interface between city and citizens. There are a lot of citizens and not a lot of government.
 
 ---
+
 ##Implement
 ###Make city data “open by default”.
 
