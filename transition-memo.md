@@ -220,7 +220,7 @@ This is likely true of many startups in the Boston area: they don’t have a cha
 __Proposed Solution__  
 Designate affordable space within the Innovation District and elsewhere, so that experimental startups with low funding but high potential can survive in the Boston market. This space might have an expiration on affordable use, similar to affordable housing.
 
-[d!a]: http://dangerawesome.com/
+[d!a]: http://dangerawesome.co/
 
 ---
 
