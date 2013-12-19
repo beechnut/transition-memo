@@ -1,14 +1,14 @@
 # Further on the Right Path
 
-The office of New Urban Mechanics was a brilliant first move by Mayor Menino, and it can be refreshed and expanded under the Walsh administration.
+The office of New Urban Mechanics was a innovative first move by Mayor Menino, and it can be refreshed and expanded under the Walsh administration.
 
 ### Keep: New Urban Mechanics
 
-The Mayor’s Office of New Urban Mechanics was a pioneering step in civic technology; Boston was highlighted in one of the first sessions at the Code for America summit in October 2013, and is considered a leader in civic technology and engagement. It can continue to be so.
+The Mayor’s Office of New Urban Mechanics was a pioneering step in civic technology. Boston was highlighted in one of the first sessions at the Code for America summit in October 2013, and is considered a leader in civic technology and engagement. It can continue to be so.
 
 ### Keep: Chris Osgood & Nigel Jacob
 
-Chris and Nigel have demonstrated exceptional leadership and innovation, piloting state-of-the-art civic technology projects. Keeping Chris and Nigel will maintain consistency in leadership and allow the program to flourish without transitional thrashing.
+Chris and Nigel have demonstrated exceptional leadership and innovation, piloting state-of-the-art civic technology projects. They are widely respected in by parntering organizations and facilitate productive collaborations effortlessly. Keeping Chris and Nigel will maintain consistency in leadership and allow the program to flourish without transitional thrashing.
 
 Chris and Nigel are advisors to Code for Boston, the Boston brigade of Code for America. They also advise the MetroBoston DataCommon, the regional data-sharing program implemented by the Metropolitan Area Planning Council.
 
@@ -22,15 +22,17 @@ In 2011, Code for America Fellows worked with New Urban Mechanics on projects su
 
 __Problem:__ Code for America prioritizes fellowships based on need. Boston has well-established civic technology, so may not see a fellow for some time. However, the fellowship positioned a developer in a year-long position within New Urban Mechanics, providing consistent effort for civic technology projects and experience for a recent graduate.
 
-__Solution:__ Implement a fellowship program to mirror the Code for America Fellowship Program, sourcing talent from Boston schools and institutions, giving many more civic-oriented developers and designers the opportunity to serve their city.
+__Solution:__ Implement a fellowship program to mirror the Code for America Fellowship Program, sourcing talent from Boston Universities and colleges, giving many more civic-oriented developers and designers the opportunity to serve their city.
 
 ### Dream: Innovation Infrastructure
 
-__Problem:__ New Urban Mechanics is an innovative department but appears to have minimal authority, and no head officer.
+__Problem:__ An Innovative and technological savvy muncipal government is critical in attracting and retaining the young knowledge workers to live and work in Boston as well as to work for the City. Currently there is no explicit or comprehensive strategy to facilitate innovation through all the city departments. The City should not only be able to communitcate and serve the innovative residents it attracts, but it should also benefit from the innovations that companies create here. 
+
 
 __Pathways:__
 
-+ Consider implementing a Civic Innovation Officer, such as the one in the Mayor’s Office of Civic Innovation in San Francisco.
++New Urban Mechanics is an innovative department but appears to have minimal authority. Elevating the office and strengthen would assist the department in encouraging innovation throughout the city government.
++ Consider implementing a Civic Innovation Officer, such as the one in the Mayor’s Office of Civic Innovation in San Francisco. This officer would serve as the main contact for entreprenurs or local companies to contact if they want to deploy and test new approaches to delivering better City services. For example an Edtech company that wants to test new learning software has no one person to contact to see if they could test it in the local school system.
 + Consider creating an Innovation Department, or modify New Urban Mechanics to include an Experimentation Team. This team would, like a startup, attempt to develop and implement boundary-breaking civic technology using an lean (i.e. low-cost) agile approach.
 + Consider establishing an Innovation Fund to provide for the Innovation Department’s experimentation. Adopt a fail-forward approach that expects occasionally failures but ensures introspection enough to learn from these events.
 
