@@ -1,26 +1,29 @@
 <style>
 @import url(http://fonts.googleapis.com/css?family=Raleway:400,300,500,600,700,800);
-body, p{color:#555; font-family:"Raleway", Helvetica, Arial, sans-serif; font-weight:300}
+body, p{
+  color:#555; 
+  font-family:"Raleway", Helvetica, Arial, sans-serif;
+  font-weight:300;
+}
 h1,h2,h3,h4,h5,h6,strong{color:#333;}
-h1 {color:#410;font-weight:800;}
-h2 {color:#410;font-weight:600;}
+h1 {color:#810; font-weight:800;}
+h2 {color:#810; font-weight:600;}
 h3{font-weight:500;}
-li{font-size: 115%; margin-bottom: 6px;}
 </style>
 
 ---
 
 #    On Civic Technology and Open Data
 ###  A contribution to the Transition Memo for Mayor Walsh's Transition Team
+<br />
+__Disclaimer__  
 
-__Disclaimer:__
+The views expressed herein are those of the authors as _private citizens_ and as leaders of Code for Boston. They are not the views of the authors' professional affiliations.
 
-The views expressed herein reflect those of the authors as *private citizens* and as leaders of Code for Boston. They do not reflect those of their professional affiliations.
-
-__Authors:__
+__Authors__  
 
 - Matt Cloyd, Web Developer at [MAPC][mapc], Captain at [Code for Boston][cfb]
-- Harlan Weber, Senior UX Designer at [OnForce][of], Captain at [Code for Boston][cfb]
+- Harlan Weber, Senior User Experience Designer at [OnForce][of], Captain at [Code for Boston][cfb]
 
 [of]: http://onforce.com/
 
@@ -37,18 +40,20 @@ The Mayor’s Office of New Urban Mechanics was a pioneering first step in civic
 
 The Mayor’s Office of New Urban Mechanics from Boston was highlighted in one of the first sessions at the Code for America summit in October 2013, and is considered a national leader in civic technology and citizen engagement. It can easily continue to be so, improving how citizens and businesses interact with government.
 
-### Chris Osgood & Nigel Jacob
+### Nigel Jacob & Chris Osgood
 
-Chris and Nigel have demonstrated exceptional leadership and innovation, [piloting state-of-the-art civic technology projects][c&n]. They are widely respected by partnering organizations and facilitate productive collaborations. Keeping Chris and Nigel will maintain consistency in leadership and allow the program to flourish without transitional disruption.
+Nigel and Chris have demonstrated exceptional leadership and innovation, [piloting state-of-the-art civic technology projects][n&c]. They are widely respected by partnering organizations and facilitate productive collaborations. Retaining Nigel & Chris as leaders will maintain consistency New Urban Mechanics and allow the program to flourish without transitional disruption.
 
-Chris and Nigel are advisors to [Code for Boston][cfb], the Boston brigade of [Code for America][cfa]. They also advise the [MetroBoston DataCommon][mbdc], the regional data-sharing program implemented by the [Metropolitan Area Planning Council][mapc], and Nigel sits on the [board of Code for America][cfboard].
+Nigel and Chris are advisors to [Code for Boston][cfb], the Boston brigade of [Code for America][cfa]. They also advise the [MetroBoston DataCommon][mbdc], the regional data-sharing program implemented by the [Metropolitan Area Planning Council][mapc], and Nigel sits on the [board of Code for America][cfboard].
 
-[c&n]:  http://www.governing.com/poy/nigel-jacob-chris-osgood.html
-[cfb]:  http://www.codeforamerica.org/cities/boston/
+[n&c]:  http://www.governing.com/poy/nigel-jacob-chris-osgood.html
+[cfb]:  http://www.meetup.com/Code-for-Boston/
 [cfa]:  http://codeforamerica.org
 [mbdc]: http://metrobostondatacommon.org
 [mapc]: http://mapc.org
 [cfboard]: http://www.codeforamerica.org/who-we-are/
+
+<!--BREAK-->
 
 ### A focus on regional data
 
@@ -90,11 +95,13 @@ __Pathways__
 
 [cio]: http://innovatesf.com/about/
 
+<!--BREAK-->
+
 ---
 
 # Access for All
 
-Civic technology at its best is an equalizer, allowing everyone access to government and facilitating interactions between the two. Civic technology should be designed for people who need the most assistance: people with low literacy, people with short-term memory loss, people with learning disabilities, or people in situations (such as poverty or hunger) who could not easily focus on long documents with legal or technical language.
+Civic technology at its best is an equalizer, allowing everyone access to government and facilitating interactions between the two. Civic technology should be designed for people who need the most assistance: people with low literacy, people with short-term memory loss, people with learning disabilities, or people in situations (such as poverty or hunger) who can not easily obtain needed government and civic services.
 
 ---
 
@@ -104,16 +111,16 @@ Civic technology at its best is an equalizer, allowing everyone access to govern
 During the campaign, John Connolly raised a smart point: [City Hall should run like an Apple Store][apple]. Processes should be easy to discover, understand, and navigate. Many services should be online, and citizen-friendliness should be a priority.
 
 __Problem__  
-City documents are hard to read. Many city government processes are often difficult to start and more difficult to follow through on.
+City documents are often hard to read. Many city government processes - such as applying for a specific permit - are often difficult to discover and difficult to follow through on.
 
 __Proposed Solution__  
 Deploy a team of design thinkers (i.e. information designers, user experience designers) and enable them to fully rework one process in City Hall, from the design of the forms to the workflows of the employees. Have the team debrief the redesign, and build upon their learning to improve other processes.
 
 __Precedents__
 
-+ The [Building Permit Office][permit] in Cook County, IL, and [OpenCounter in Santa Cruz, CA][oc] enable citizens to navigate permitting processes in transparent ways, using simple language.
++ The [Building Permit Office][permit] in Cook County, IL, and [OpenCounter][oc] in Santa Cruz, CA enable citizens to navigate permitting processes in transparent ways, using simple language.
 + [HonoluluAnswers][ohana] helps citizens discover city government processes, using simple language searching.
-+ [AnywhereBallot][ballot] used design thinking to design a ballot that enabled people to vote regardless of low literacy, [medical conditions (including a stroke)][med], or other conditions preventing someone from closely following a multi-page ballot.
++ [AnywhereBallot][ballot] enables people to vote regardless of low literacy, [medical conditions (including a stroke)][med], or other conditions preventing someone from closely following a multi-page ballot.
 
 [apple]:  http://wgbhnews.org/post/directions-city-hall-john-connollys-apple-store-analogy
 [permit]: http://www.cookcountygov.com/portal/server.pt/community/building_and_zoning/235/building_permits
@@ -122,10 +129,12 @@ __Precedents__
 [ballot]: http://anywhereballot.com
 [med]:    http://civicdesigning.org/featured-story/deep-background-reviewing-research-on-ballot-design-low-literacy-and-mobile/
 
+<!--BREAK-->
+
 ### Write for Humans
 
 __Problem__  
-People who were well-educated and have high English proficiency have a hard time reading long, small-print legal documents. People who have lower English proficiency, lower literacy, or a learning disability have an nearly impossible time reading them.
+Government documents and forms often provide a challenge for citizens, especially those who have lower English proficiency, lower literacy, or a learning disability.
 
 __Proposed Solution__
 
@@ -156,6 +165,7 @@ __Pathways__
 [libre]:  http://libreoffice.org
 [kidsrb]: http://www.kidsruby.com/
 
+<!--BREAK-->
 
 ### Non-elective computer education
 
@@ -182,7 +192,7 @@ This is not a proposal to force or even encourage students into STEM majors. One
 ### Open Procurement to Smaller Businesses
 
 __Problem__  
-At present, only large businesses have the resources to endure traditional government Requests For Proposals (RFPs) and procurement processes, even when smaller businesses would have been a competitive candidate.
+At present, only large businesses have the resources to endure traditional government Requests For Proposals (RFPs) and procurement processes, even when smaller businesses would have been  competitive candidates.
 
 __Proposed Solution__   
 
@@ -193,13 +203,15 @@ __Proposed Solution__   
 [screen]:  http://www.dobt.co/screendoor/
 [procure]: http://www.mapc.org/collective-procurement
 
+<!--BREAK-->
+
 ---
 
 ##  Dream
 ### Facilitate Civic Startups
 
 __Problem__  
-Civic-oriented startups could bring an agile approach to solving government problems, but few such startups presently exist.
+Civic-oriented startups could bring an agile approach to solving government problems, but few such startups presently exist in the Boston area.
 
 __Proposed Solution__  
 
@@ -223,9 +235,10 @@ Designate affordable space within the Innovation District and elsewhere, so that
 
 [d!a]: http://dangerawesome.co/
 
+
+<!--BREAK-->
+
 ---
-
-
 
 
 # More Data, More Opportunity
@@ -260,6 +273,8 @@ Despite a usually generous response to requests for open data, city and state em
 
 __Proposed Solution__  
 Hire a consultant or internally source talent to research best practices in de-identification / anonymization of sensitive data. Ideally, research would determine a set of ways for city employees to process data to eliminate identifying information while enabling city and volunteer developers to extract insights from this data.
+
+<!--BREAK-->
 
 ---
 
