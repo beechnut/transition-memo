@@ -15,7 +15,7 @@ li{font-size: 115%; margin-bottom: 6px;}
 
 __Disclaimer:__
 
-The views expressed herein do not reflect those of their professional affiliations. The views expressed herein reflect only those of the authors as private citizens, and as leaders of Code for Boston.
+The views expressed herein reflect those of the authors as *private citizens* and as leaders of Code for Boston. They do not reflect those of their professional affiliations.
 
 __Authors:__
 
@@ -26,7 +26,7 @@ __Authors:__
 
 ---
 
-# Further on the Right Path
+# On the Right Path
 
 The Mayor’s Office of New Urban Mechanics was a pioneering first step in civic technology in Boston. Under the Walsh administration, it can be refreshed and expanded to serve Boston better.
 
@@ -41,13 +41,14 @@ The Mayor’s Office of New Urban Mechanics from Boston was highlighted in one o
 
 Chris and Nigel have demonstrated exceptional leadership and innovation, [piloting state-of-the-art civic technology projects][c&n]. They are widely respected by partnering organizations and facilitate productive collaborations. Keeping Chris and Nigel will maintain consistency in leadership and allow the program to flourish without transitional disruption.
 
-Chris and Nigel are advisors to [Code for Boston][cfb], the Boston brigade of [Code for America][cfa]. They also advise the [MetroBoston DataCommon][mbdc], the regional data-sharing program implemented by the [Metropolitan Area Planning Council][mapc].
+Chris and Nigel are advisors to [Code for Boston][cfb], the Boston brigade of [Code for America][cfa]. They also advise the [MetroBoston DataCommon][mbdc], the regional data-sharing program implemented by the [Metropolitan Area Planning Council][mapc], and Nigel sits on the [board of Code for America][cfboard].
 
 [c&n]:  http://www.governing.com/poy/nigel-jacob-chris-osgood.html
 [cfb]:  http://www.codeforamerica.org/cities/boston/
 [cfa]:  http://codeforamerica.org
 [mbdc]: http://metrobostondatacommon.org
 [mapc]: http://mapc.org
+[cfboard]: http://www.codeforamerica.org/who-we-are/
 
 ### A focus on regional data
 
@@ -58,7 +59,7 @@ The Office of New Urban Mechanics has implemented Citizens Connect / Commonwealt
 ##  Implement
 ### Innovation Fellowship
 
-In 2011, [Code for America Fellows][cfa] worked with New Urban Mechanics on projects such as Bostonavigator, Discover BPS, Where’s My School Bus, Building Boston, Boston Public Schools, and Boston Public Works.
+In 2011, [Code for America Fellows][fellows] worked with New Urban Mechanics on projects such as Bostonavigator, Discover BPS, Where’s My School Bus, Building Boston, Boston Public Schools, and Boston Public Works.
 
 __Problem__  
 Code for America prioritizes fellowships based on need. Boston has well-established civic technology, so may not see a Code for America fellow for some time. However, the fellowship positioned a developer in a year-long position within New Urban Mechanics, providing consistent effort on civic technology projects for Boston, and offering professional experience for recent graduates and experiened technologists.
@@ -69,7 +70,7 @@ Implement a fellowship program to mirror the Code for America Fellowship Program
 __Precedents__  
 The [San Francisco Mayor's Office of Civic Innovation][sf] and [the City of Chicago][chi] have dedicated Innovation Fellows similar to a Code for America fellow.
 
-[cfa]: http://www.codeforamerica.org/fellows/2011-fellows/
+[fellows]: http://www.codeforamerica.org/fellows/2011-fellows/
 [sf]:  http://innovatesf.com/about/
 [chi]: http://digital.cityofchicago.org/index.php/its-a-bird-its-a-plane-no-its-the-mayors-tech-fellowships/
 
