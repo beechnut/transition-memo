@@ -70,12 +70,24 @@ __Problem__
 Code for America prioritizes fellowships based on need. Boston has well-established civic technology, so may not see a Code for America fellow for some time. However, the fellowship positioned a developer in a year-long position within New Urban Mechanics, providing consistent effort on civic technology projects for Boston, and offering professional experience for recent graduates and experiened technologists.
 
 __Proposed Solution__  
-Implement a fellowship program to mirror the Code for America Fellowship Program, sourcing local talent from Boston universities and colleges, and giving many more civic-oriented developers and designers the opportunity to serve their city.
+Implement a fellowship program to mirror the Code for America Fellowship Program, sourcing local talent from Boston universities and colleges, and giving many more civic-oriented developers and designers the opportunity to serve their city.  
+
+Such a fellowship program would bring needed technical skills and innovation techniques into the City ecosystem. As an example, several Code for America Fellows have engaged with the City of Boston since the conculsion of their Fellowship year, building software applications and helping City departments to truly "think different" about longstanding problems.
++ __Michael Lawrence Evans__ (2011 Fellow) works as an in-house developer and designer with New Urban Mechanics. His projects include [Girls Make the City][girls_make], [East Boston Makers & Movers][makers_movers], and [Married in Boston][married].
++ __Joel Mahoney (2011 Fellow)__ is engaged as a contract developer with New Urban Mechanics on the [StreetCred][streetcred] project, and with New Urban Mechanics and the Boston Public Schools on the [DiscoverBPS application][discover_bps].
++ __Nick Doiron__ (2012 Fellow) worked with the City of Boston as a GIS Innovation Fellow from June - October 2013, creating the [Adopt-a-Tree][adopt_a_tree] and Boston Voting Locations [(code)][boston_voting] applications as well as improving GIS deplopyment infrastructure.
 
 __Precedents__  
 The [San Francisco Mayor's Office of Civic Innovation][sf] and [the City of Chicago][chi] have dedicated Innovation Fellows similar to a Code for America fellow.
 
 [fellows]: http://www.codeforamerica.org/fellows/2011-fellows/
+[girls_make]: http://www.newurbanmechanics.org/2013/09/18/girls-make-the-city/
+[makers_movers]: http://www.newurbanmechanics.org/2013/09/23/east-boston-makers-movers/
+[married]: http://nextcity.org/daily/entry/capturing-the-love-in-bostons-much-unloved-city-hall
+[streetcred]: http://streetcred.us/
+[discover_bps]: http://www.discoverbps.org/
+[adopt_a_tree]: http://adoptatree.greenovateboston.org/
+[boston_voting]: https://github.com/CityOfBoston/elect-app
 [sf]:  http://innovatesf.com/about/
 [chi]: http://digital.cityofchicago.org/index.php/its-a-bird-its-a-plane-no-its-the-mayors-tech-fellowships/
 
