@@ -297,4 +297,4 @@ __Problem__
 As more data is made available, more hands will be needed to manage and update it.
 
 __Proposed Solution__  
-Add staffing to the data department to facilitate federation / transfer of data between departments.
+Assign staff to the data department to facilitate federation / transfer of data between departments.
