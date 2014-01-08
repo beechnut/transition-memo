@@ -31,7 +31,7 @@ __Authors__
 
 # On the Right Path
 
-The Mayor’s Office of New Urban Mechanics was a pioneering first step in civic technology in Boston. Under the Walsh administration, it can be refreshed and expanded to serve Boston better.
+The Mayor’s Office of New Urban Mechanics was a pioneering first step for civic technology in Boston. Under the Walsh administration, it can be refreshed and expanded to serve Boston better.
 
 ---
 
@@ -42,7 +42,7 @@ The Mayor’s Office of New Urban Mechanics from Boston was highlighted in one o
 
 ### Nigel Jacob & Chris Osgood
 
-Nigel and Chris have demonstrated exceptional leadership and innovation, [piloting state-of-the-art civic technology projects][n&c]. They are widely respected by partnering organizations and facilitate productive collaborations. Retaining Nigel & Chris as leaders will maintain consistency New Urban Mechanics and allow the program to flourish without transitional disruption.
+Nigel and Chris have demonstrated exceptional leadership and innovation, [piloting state-of-the-art civic technology projects][n&c]. They are widely respected by partnering organizations and facilitate productive collaborations. Retaining Nigel & Chris as leaders will maintain consistency at New Urban Mechanics and allow the program to flourish without transitional disruption.
 
 Nigel and Chris are advisors to [Code for Boston][cfb], the Boston brigade of [Code for America][cfa]. They also advise the [MetroBoston DataCommon][mbdc], the regional data-sharing program implemented by the [Metropolitan Area Planning Council][mapc], and Nigel sits on the [board of Code for America][cfboard].
 
@@ -67,18 +67,18 @@ The Office of New Urban Mechanics has implemented Citizens Connect / Commonwealt
 In 2011, [Code for America Fellows][fellows] worked with New Urban Mechanics on projects such as Bostonavigator, Discover BPS, Where’s My School Bus, Building Boston, Boston Public Schools, and Boston Public Works.
 
 __Problem__  
-Code for America prioritizes fellowships based on need. Boston has well-established civic technology, so may not see a Code for America fellow for some time. However, the fellowship positioned a developer in a year-long position within New Urban Mechanics, providing consistent effort on civic technology projects for Boston, and offering professional experience for recent graduates and experiened technologists.
+Code for America prioritizes fellowships based on need. Boston has well-established civic technology, so may not see a Code for America fellow for some time. However, the fellowship positioned a developer in a year-long position within New Urban Mechanics, providing consistent effort on civic technology projects for Boston, and offering professional experience for recent graduates and experienced technologists.
 
 __Proposed Solution__  
 Implement a fellowship program to mirror the Code for America Fellowship Program, sourcing local talent from Boston universities and colleges, and giving many more civic-oriented developers and designers the opportunity to serve their city.  
 
-Such a fellowship program would bring needed technical skills and innovation techniques into the City ecosystem. As an example, several Code for America Fellows have engaged with the City of Boston since the conculsion of their Fellowship year, building software applications and helping City departments to truly "think different" about longstanding problems.
+Such a fellowship program would bring needed technical skills and innovation techniques into the City ecosystem. As an example, several Code for America Fellows have engaged with the City of Boston since the conclusion of their Fellowship year, building software applications and helping City departments to truly "think different" about longstanding problems.
 + __Michael Lawrence Evans__ (2011 Fellow) works as an in-house developer and designer with New Urban Mechanics. His projects include [Girls Make the City][girls_make], [East Boston Makers & Movers][makers_movers], and [Married in Boston][married].
 + __Joel Mahoney (2011 Fellow)__ is engaged as a contract developer with New Urban Mechanics on the [StreetCred][streetcred] project, and with New Urban Mechanics and the Boston Public Schools on the [DiscoverBPS application][discover_bps].
 + __Nick Doiron__ (2012 Fellow) worked with the City of Boston as a GIS Innovation Fellow from June - October 2013, creating the [Adopt-a-Tree][adopt_a_tree] and Boston Voting Locations [(code)][boston_voting] applications as well as improving GIS deplopyment infrastructure.
 
 __Precedents__  
-The [San Francisco Mayor's Office of Civic Innovation][sf] and [the City of Chicago][chi] have dedicated Innovation Fellows similar to a Code for America fellow.
+The [San Francisco Mayor's Office of Civic Innovation][sf] and [the City of Chicago][chi] have dedicated Innovation Fellows programs similar to Code for America's Fellowship program.
 
 [fellows]: http://www.codeforamerica.org/fellows/2011-fellows/
 [girls_make]: http://www.newurbanmechanics.org/2013/09/18/girls-make-the-city/
@@ -102,7 +102,7 @@ New Urban Mechanics is an innovative department but appears to have minimal auth
 __Pathways__
 
 + Consider implementing a [Civic Innovation Officer][cio], such as the one in the Mayor’s Office of Civic Innovation in San Francisco, filled by Jay Nath.
-+ Consider creating an Innovation Department, or modify New Urban Mechanics to include an Experimentation Team. This team would, like a startup, attempt to develop and implement boundary-breaking civic technology using an lean (i.e. low-cost) agile approach.
++ Consider creating an Innovation Department, or modify New Urban Mechanics to include an Experimentation Team. This team would, like a startup, attempt to develop and implement boundary-breaking civic technology using a lean (i.e. low-cost) agile approach.
 + Consider establishing an Innovation Fund to provide for the Innovation Department’s experimentation. Adopt a fail-forward approach that expects occasional failures but assesses them thoroughly to learn from these events.
 
 [cio]: http://innovatesf.com/about/
